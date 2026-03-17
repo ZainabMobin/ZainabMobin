@@ -1,5 +1,4 @@
-## Hi there 👋
-
+![GitHub Stats](https://ghstats.dev/api/card?username=ZainabMobin)
 <!--
 **ZainabMobin/ZainabMobin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
